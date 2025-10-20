@@ -1,0 +1,36 @@
+# Файлы и папки, которые нужно игнорировать
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]user[Ss]ettings/
+
+# Файлы проектов
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Файлы сборки
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.zip
+
+# Файлы операционных систем
+.DS_Store
+Thumbs.db
+
+# Автогенерируемые файлы
+*.pidb.meta
+*.pdb.meta
